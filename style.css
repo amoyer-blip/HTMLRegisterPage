@@ -1,0 +1,19 @@
+body{
+    background-color: lightskyblue;
+}
+form{
+    border: 1px;
+    text-align:left;
+    align-content: center;
+    background-color: #ffffff;
+    width: max-content;
+    height:max-content;
+    margin-left: 35%;
+    margin-right: 35%;
+} 
+.nav{
+    position: fixed center;
+    top: 2;
+    right: 2;
+    background-color: white;
+}
